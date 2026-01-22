@@ -1,6 +1,15 @@
 <div align="center">
   <h1>📊 Kalleb Vieira</h1>
-  <p><strong>Analista de Dados | Power BI | SQL | Python | Data-Driven</strong></p>
+  <p>
+    <strong>
+      Analista de Dados |
+      <code>Advanced Excel</code> |
+      <code>Data Driven</code> |
+      <code>Power BI</code> |
+      <code>SQL</code> |
+      <code>Python</code>
+    </strong>
+  </p>
 
   <img src="https://img.shields.io/badge/Power%20BI-Business%20Intelligence-yellow">
   <img src="https://img.shields.io/badge/SQL-Data%20Querying-blue">
@@ -13,9 +22,11 @@
 <h2>🎯 Perfil Profissional</h2>
 
 <p>
-Analista de Dados com foco em <strong>Business Intelligence e Analytics</strong>, atuando na transformação de dados em 
-<strong>insights claros para tomada de decisão</strong>. Experiência prática no desenvolvimento de 
-dashboards, análise de indicadores e organização de dados com foco em 
+Analista de Dados com foco em <code>Business Intelligence</code> e <code>Data Analytics</code>,
+atuando na transformação de dados em
+<strong>insights claros para tomada de decisão</strong>.
+Experiência prática no desenvolvimento de dashboards,
+análise de indicadores e organização de dados com foco em
 <strong>resultados de negócio</strong>, especialmente em contextos operacionais e logísticos.
 </p>
 
@@ -25,9 +36,9 @@ dashboards, análise de indicadores e organização de dados com foco em
 
 <ul>
   <li>Transformo dados em decisões acionáveis</li>
-  <li>Crio dashboards claros para gestores e liderança</li>
-  <li>Analiso KPIs com foco em performance e eficiência</li>
-  <li>Aplico mentalidade data-driven na resolução de problemas</li>
+  <li>Crio dashboards claros e objetivos para gestores</li>
+  <li>Analiso <code>KPIs</code> com foco em performance e eficiência</li>
+  <li>Aplico mentalidade <code>Data Driven</code> na resolução de problemas</li>
 </ul>
 
 ---
@@ -36,22 +47,22 @@ dashboards, análise de indicadores e organização de dados com foco em
 
 <strong>Business Intelligence & Análise</strong>
 <ul>
-  <li>Power BI (DAX, Modelagem de Dados, KPIs, Dashboards)</li>
-  <li>Excel Avançado (Power Query, Tabelas Dinâmicas)</li>
-  <li>Storytelling com Dados</li>
+  <li><code>Power BI</code> (DAX, Modelagem de Dados, <code>KPIs</code>, Dashboards)</li>
+  <li>Excel Avançado (<code>Power Query</code>, Tabelas Dinâmicas)</li>
+  <li><code>Storytelling</code> com Dados</li>
 </ul>
 
 <strong>Dados</strong>
 <ul>
-  <li>SQL (Consultas, Joins, Agregações)</li>
-  <li>Python (Pandas, Análise Exploratória de Dados)</li>
+  <li><code>SQL</code> (Consultas, <code>Joins</code>, Agregações)</li>
+  <li><code>Python</code> (<code>Pandas</code>, Análise Exploratória de Dados)</li>
   <li>Modelagem de Dados Relacional</li>
 </ul>
 
 <strong>Processos</strong>
 <ul>
-  <li>Git & GitHub</li>
-  <li>Documentação Técnica (README, Markdown)</li>
+  <li><code>Git</code> & <code>GitHub</code></li>
+  <li>Documentação Técnica (<code>README</code>, Markdown)</li>
   <li>Organização de Portfólio Analítico</li>
 </ul>
 
@@ -77,7 +88,7 @@ Cada projeto contém:
 <ul>
   <li>Contexto do problema</li>
   <li>Fonte e tratamento dos dados</li>
-  <li>Métricas e KPIs analisados</li>
+  <li>Métricas e <code>KPIs</code> analisados</li>
   <li>Insights e recomendações</li>
 </ul>
 
@@ -87,9 +98,9 @@ Cada projeto contém:
 
 <ul>
   <li>Certificação Profissional em Análise de Dados – Google</li>
-  <li>Excel e Power BI – Santander Open Academy</li>
+  <li>Excel e <code>Power BI</code> – Santander Open Academy</li>
   <li>Banco de Dados e Modelagem de Dados</li>
-  <li>Introdução à Ciência de Dados e IA Generativa</li>
+  <li>Introdução à Ciência de Dados e <code>IA Generativa</code></li>
 </ul>
 
 ---
@@ -107,7 +118,7 @@ Cada projeto contém:
 <h2>🌐 Contato</h2>
 
 <p>
-💼 LinkedIn: 
+💼 LinkedIn:
 <a href="https://www.linkedin.com/in/kalleb-vieira-997a03108" target="_blank">
 linkedin.com/in/kalleb-vieira-997a03108
 </a>
