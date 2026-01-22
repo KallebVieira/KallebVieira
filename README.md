@@ -20,7 +20,7 @@
 
 ---
 
-## 🎯 Perfil Profissional
+## 📈 Perfil Profissional
 
 Analista de Dados com foco em Business Intelligence e Data Analytics, atuando na transformação de dados em  
 insights claros para tomada de decisão. Experiência prática no desenvolvimento de dashboards,  
@@ -29,7 +29,7 @@ em contextos operacionais e logísticos.
 
 ---
 
-## 🧠 Proposta de Valor
+## 📉 Proposta de Valor
 
 - Transformo dados em decisões acionáveis  
 - Crio dashboards claros e objetivos para gestores  
