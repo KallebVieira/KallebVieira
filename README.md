@@ -51,10 +51,11 @@ Atuo com mentalidade Data Driven, priorizando clareza analítica, confiabilidade
 - Python (Pandas, Análise Exploratória de Dados)
 - Modelagem de Dados Relacional
 
-### Processos
-- Git & GitHub
-- Documentação Técnica (README, Markdown)
-- Organização de Portfólio Analítico
+##🎯 Impacto da Atuação Analítica
+
+Atuei no apoio à gestão por meio da análise e visualização de dados, contribuindo para decisões mais assertivas e redução de incertezas operacionais.
+Desenvolvi e padronizei indicadores de desempenho, facilitando o acompanhamento gerencial e a comunicação entre áreas. 
+Também contribuí para a melhoria de processos analíticos, aumentando a eficiência na análise de dados e no suporte à tomada de decisão.
 
 ---
 
@@ -121,4 +122,4 @@ Cada repositório segue boas práticas e contém:
 LinkedIn: Clique aqui 👉🏻 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalleb-vieira-997a03108)
 
 
-📌 *Aberto a oportunidades como Analista de Dados Júnior / BI Analyst*
+
