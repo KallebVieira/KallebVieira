@@ -3,15 +3,16 @@
   <p>
     <strong>
       Analista de Dados |
-      <code>Advanced Excel</code> |
-      <code>Data Driven</code> |
-      <code>Power BI</code> |
-      <code>SQL</code> |
-      <code>Python</code>
+      Data Driven |
+      Power BI |
+      Excel |
+      SQL |
+      Python
     </strong>
   </p>
 
   <img src="https://img.shields.io/badge/Power%20BI-Business%20Intelligence-yellow">
+  <img src="https://img.shields.io/badge/Excel-Data%20Analysis-green">
   <img src="https://img.shields.io/badge/SQL-Data%20Querying-blue">
   <img src="https://img.shields.io/badge/Python-Data%20Analysis-green">
   <img src="https://img.shields.io/badge/Data-Driven-orange">
@@ -19,111 +20,95 @@
 
 ---
 
-<h2>🎯 Perfil Profissional</h2>
+## 🎯 Perfil Profissional
 
-<p>
-Analista de Dados com foco em <code>Business Intelligence</code> e <code>Data Analytics</code>,
-atuando na transformação de dados em
-<strong>insights claros para tomada de decisão</strong>.
-Experiência prática no desenvolvimento de dashboards,
-análise de indicadores e organização de dados com foco em
-<strong>resultados de negócio</strong>, especialmente em contextos operacionais e logísticos.
-</p>
+Analista de Dados com foco em *Business Intelligence* e *Data Analytics*, atuando na transformação de dados em  
+*insights claros para tomada de decisão*. Experiência prática no desenvolvimento de dashboards,  
+análise de indicadores e organização de dados com foco em *resultados de negócio*, especialmente  
+em contextos operacionais e logísticos.
 
 ---
 
-<h2>🧠 Proposta de Valor</h2>
+## 🧠 Proposta de Valor
 
-<ul>
-  <li>Transformo dados em decisões acionáveis</li>
-  <li>Crio dashboards claros e objetivos para gestores</li>
-  <li>Analiso <code>KPIs</code> com foco em performance e eficiência</li>
-  <li>Aplico mentalidade <code>Data Driven</code> na resolução de problemas</li>
-</ul>
+- Transformo dados em decisões acionáveis  
+- Crio dashboards claros e objetivos para gestores  
+- Analiso *KPIs* com foco em performance e eficiência  
+- Aplico mentalidade *Data Driven* na resolução de problemas  
 
 ---
 
-<h2>🛠️ Stack Técnica</h2>
+## 🛠️ Stack Técnica
 
-<strong>Business Intelligence & Análise</strong>
-<ul>
-  <li><code>Power BI</code> (DAX, Modelagem de Dados, <code>KPIs</code>, Dashboards)</li>
-  <li>Excel Avançado (<code>Power Query</code>, Tabelas Dinâmicas)</li>
-  <li><code>Storytelling</code> com Dados</li>
-</ul>
+### Business Intelligence & Análise
+- *Power BI* (DAX, Modelagem de Dados, KPIs, Dashboards)
+- *Excel Avançado* (Power Query, Tabelas Dinâmicas)
+- *Storytelling com Dados*
 
-<strong>Dados</strong>
-<ul>
-  <li><code>SQL</code> (Consultas, <code>Joins</code>, Agregações)</li>
-  <li><code>Python</code> (<code>Pandas</code>, Análise Exploratória de Dados)</li>
-  <li>Modelagem de Dados Relacional</li>
-</ul>
+### Dados
+- *SQL* (Consultas, Joins, Agregações)
+- *Python* (Pandas, Análise Exploratória de Dados)
+- Modelagem de Dados Relacional
 
-<strong>Processos</strong>
-<ul>
-  <li><code>Git</code> & <code>GitHub</code></li>
-  <li>Documentação Técnica (<code>README</code>, Markdown)</li>
-  <li>Organização de Portfólio Analítico</li>
-</ul>
+### Processos
+- *Git & GitHub*
+- Documentação Técnica (README, Markdown)
+- Organização de Portfólio Analítico
 
 ---
 
-<h2>📂 Projetos</h2>
+## ⭐ Projetos em Destaque
 
-<p>
-Este GitHub reúne <strong>projetos práticos e estudos de caso</strong> focados em:
-</p>
+🔹 *Análise de Vendas com Power BI*  
+Dashboard interativo focado em indicadores de faturamento, ticket médio e performance comercial.  
+👉 https://github.com/SEU_USUARIO/nome-do-repositorio
 
-<ul>
-  <li>Análise de dados reais</li>
-  <li>Indicadores de negócio e desempenho</li>
-  <li>Visualizações orientadas à tomada de decisão</li>
-  <li>Boas práticas de documentação e reprodutibilidade</li>
-</ul>
+🔹 *Análise Socioeconômica com Dados do IBGE*  
+Exploração e visualização de dados públicos para análise de tendências e indicadores históricos.  
+👉 https://github.com/SEU_USUARIO/nome-do-repositorio
 
-<p>
-Cada projeto contém:
-</p>
+🔹 *Análise de Dados em Python*  
+Projeto com limpeza, exploração e visualização de dados utilizando Pandas e Matplotlib.  
+👉 https://github.com/SEU_USUARIO/nome-do-repositorio
 
-<ul>
-  <li>Contexto do problema</li>
-  <li>Fonte e tratamento dos dados</li>
-  <li>Métricas e <code>KPIs</code> analisados</li>
-  <li>Insights e recomendações</li>
-</ul>
+📌 Cada projeto possui README detalhado com contexto, dados utilizados, métricas analisadas e insights.
 
 ---
 
-<h2>📚 Formação & Certificações</h2>
+## 📂 Estrutura dos Projetos
 
-<ul>
-  <li>Certificação Profissional em Análise de Dados – Google</li>
-  <li>Excel e <code>Power BI</code> – Santander Open Academy</li>
-  <li>Banco de Dados e Modelagem de Dados</li>
-  <li>Introdução à Ciência de Dados e <code>IA Generativa</code></li>
-</ul>
+Cada repositório segue boas práticas e contém:
+
+- Contexto do problema
+- Fonte e tratamento dos dados
+- Métricas e KPIs analisados
+- Insights e recomendações
+- Instruções para reprodução
 
 ---
 
-<h2>📊 GitHub Analytics</h2>
+## 📚 Formação & Certificações
+
+- Certificação Profissional em Análise de Dados – Google  
+- *Excel* e *Power BI* – Santander Open Academy  
+- Banco de Dados e Modelagem de Dados  
+- Introdução à Ciência de Dados e *IA Generativa*
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KallebVieira&show_icons=true&hide_title=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_title=true">
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KallebVieira&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact">
 </div>
 
 ---
 
-<h2>🌐 Contato</h2>
+## 🌐 Contato
 
-<p>
-💼 LinkedIn:
-<a href="https://www.linkedin.com/in/kalleb-vieira-997a03108" target="_blank">
-linkedin.com/in/kalleb-vieira-997a03108
-</a>
-</p>
+💼 LinkedIn:  
+https://www.linkedin.com/in/kalleb-vieira-997a03108  
 
-<p>
-📌 <strong>Aberto a oportunidades como Analista de Dados Júnior / BI Analyst</strong>
-</p>
+📌 *Aberto a oportunidades como Analista de Dados Júnior / BI Analyst*
