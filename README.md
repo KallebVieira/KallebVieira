@@ -51,7 +51,7 @@ Atuo com mentalidade Data Driven, priorizando clareza analítica, confiabilidade
 - Python (Pandas, Análise Exploratória de Dados)
 - Modelagem de Dados Relacional
 
-##🎯 Impacto da Atuação Analítica
+## 🎯 Impacto da Atuação Analítica
 
 Atuei no apoio à gestão por meio da análise e visualização de dados, contribuindo para decisões mais assertivas e redução de incertezas operacionais.
 Desenvolvi e padronizei indicadores de desempenho, facilitando o acompanhamento gerencial e a comunicação entre áreas. 
