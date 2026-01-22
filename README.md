@@ -90,7 +90,7 @@ Cada repositório segue boas práticas e contém:
 
 ## 📚 Formação & Certificações
 
-## Top 5
+## Top 6
 
 - Certificado Profissional Google Data Analytics – Google
 
@@ -102,6 +102,8 @@ Cada repositório segue boas práticas e contém:
 
 - Modelagem, Implementação e Administração de Banco de Dados – Fundação Bradesco
 
+- Microsoft Power BI Para Business Intelligence e Data Science - Data Science Academy
+
 
 
 ---
@@ -111,9 +113,7 @@ Cada repositório segue boas práticas e contém:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KallebVieira&show_icons=true&hide_title=true">
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KallebVieira&layout=compact">
-</div>
-
+ 
 ---
 
 ## 🌐 Contato
