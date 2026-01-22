@@ -23,19 +23,20 @@
 ## 📈 Perfil Profissional
 
 Analista de Dados com foco em Business Intelligence e Data Analytics, atuando na transformação de dados em  
-insights claros para tomada de decisão. Experiência prática no desenvolvimento de dashboards,  
-análise de indicadores e organização de dados com foco em resultados de negócio, especialmente  
-em contextos operacionais e logísticos.
+insights acionáveis para suporte à tomada de decisão tática e estratégica. Experiência prática no desenvolvimento de dashboards,  
+definição e análise de KPIs, modelagem de dados e organização de informações para apoiar gestores em contextos operacionais, comerciais e logísticos.
+
+Atuo com mentalidade Data Driven, priorizando clareza analítica, confiabilidade dos dados e alinhamento entre métricas e objetivos de negócio.
 
 ---
 
 ## 📉 Proposta de Valor
 
-- Transformo dados em decisões acionáveis  
-- Crio dashboards claros e objetivos para gestores  
-- Analiso KPIs com foco em performance e eficiência  
-- Aplico mentalidade Data Driven na resolução de problemas  
-
+- Transformo dados em informações relevantes para decisão 
+- Desenvolvo dashboards claros, objetivos e orientados a gestão  
+- Analiso KPIs com foco em performance, eficiência e resultado
+- Estruturo dados e indicadores para redução de incerteza operacional  
+- Aplico boas práticas analíticas e visão de negócio em todo o ciclo da análise
 ---
 
 ## 🛠️ Stack Técnica
@@ -89,10 +90,19 @@ Cada repositório segue boas práticas e contém:
 
 ## 📚 Formação & Certificações
 
-- Certificação Profissional em Análise de Dados – Google  
-- *Excel* e *Power BI* – Santander Open Academy  
-- Banco de Dados e Modelagem de Dados  
-- Introdução à Ciência de Dados e *IA Generativa*
+## Top 5
+
+- Certificado Profissional Google Data Analytics – Google
+
+- Análise de Negócios no Desenvolvimento de Soluções Baseadas em Dados – ENAP
+
+- Data Privacy Fundamentals – Northeastern University
+
+- Data Science Ethics – University of Michigan
+
+- Modelagem, Implementação e Administração de Banco de Dados – Fundação Bradesco
+
+
 
 ---
 
