@@ -22,9 +22,9 @@
 
 ## 🎯 Perfil Profissional
 
-Analista de Dados com foco em *Business Intelligence* e *Data Analytics*, atuando na transformação de dados em  
-*insights claros para tomada de decisão*. Experiência prática no desenvolvimento de dashboards,  
-análise de indicadores e organização de dados com foco em *resultados de negócio*, especialmente  
+Analista de Dados com foco em Business Intelligence e Data Analytics, atuando na transformação de dados em  
+insights claros para tomada de decisão. Experiência prática no desenvolvimento de dashboards,  
+análise de indicadores e organização de dados com foco em resultados de negócio, especialmente  
 em contextos operacionais e logísticos.
 
 ---
@@ -33,25 +33,25 @@ em contextos operacionais e logísticos.
 
 - Transformo dados em decisões acionáveis  
 - Crio dashboards claros e objetivos para gestores  
-- Analiso *KPIs* com foco em performance e eficiência  
-- Aplico mentalidade *Data Driven* na resolução de problemas  
+- Analiso KPIs com foco em performance e eficiência  
+- Aplico mentalidade Data Driven na resolução de problemas  
 
 ---
 
 ## 🛠️ Stack Técnica
 
 ### Business Intelligence & Análise
-- *Power BI* (DAX, Modelagem de Dados, KPIs, Dashboards)
-- *Excel Avançado* (Power Query, Tabelas Dinâmicas)
-- *Storytelling com Dados*
+- Power BI (DAX, Modelagem de Dados, KPIs, Dashboards)
+- Excel Avançado (Power Query, Tabelas Dinâmicas)
+- Storytelling com Dados
 
 ### Dados
-- *SQL* (Consultas, Joins, Agregações)
-- *Python* (Pandas, Análise Exploratória de Dados)
+- SQL (Consultas, Joins, Agregações)
+- Python (Pandas, Análise Exploratória de Dados)
 - Modelagem de Dados Relacional
 
 ### Processos
-- *Git & GitHub*
+- Git & GitHub
 - Documentação Técnica (README, Markdown)
 - Organização de Portfólio Analítico
 
