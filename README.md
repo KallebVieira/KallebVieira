@@ -123,6 +123,9 @@ Cada repositório segue boas práticas e contém:
 
 LinkedIn: Clique aqui 👉🏻 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalleb-vieira-997a03108)
 
+---
+
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
   
