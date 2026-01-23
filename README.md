@@ -108,18 +108,21 @@ Cada repositório segue boas práticas e contém:
 
 
 ---
-
+<!--
 ## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KallebVieira&show_icons=true&hide_title=true">
   <br><br>
- 📌 Busco oportunidades como Analista de Dados Júnior ou BI Analyst, com foco em aprendizado contínuo e geração de valor por meio de dados.
----
+</div>
+-->
+
+ 📌  Busco oportunidades como Analista de Dados Júnior ou BI Analyst, com foco em aprendizado contínuo e geração de valor por meio de dados.
 
 ## 🌐 Contato
 
 LinkedIn: Clique aqui 👉🏻 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalleb-vieira-997a03108)
 
-
-
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  
