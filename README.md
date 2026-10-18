@@ -37,6 +37,7 @@ Atuo com mentalidade Data Driven, priorizando clareza analítica, confiabilidade
 - Analiso KPIs com foco em performance, eficiência e resultado
 - Estruturo dados e indicadores para redução de incerteza operacional  
 - Aplico boas práticas analíticas e visão de negócio em todo o ciclo da análise
+
 ---
 
 ## 🛠️ Stack Técnica
@@ -51,6 +52,21 @@ Atuo com mentalidade Data Driven, priorizando clareza analítica, confiabilidade
 - Python (Pandas, Análise Exploratória de Dados)
 - Modelagem de Dados Relacional
 
+---
+
+## 🏆 Certificações & Insígnias (Harvard ManagementMentor)
+
+<p align="center">
+  <img src="hmm_business_case_development_badge.jpg" width="130" alt="Business Case Development" title="Business Case Development">
+  <img src="hmm_customer_focus_badge.jpg" width="130" alt="Customer Focus" title="Customer Focus">
+  <img src="hmm_finance_essentials_badge.jpg" width="130" alt="Finance Essentials" title="Finance Essentials">
+  <img src="hmm_marketing_essentials_badge (1).jpg" width="130" alt="Marketing Essentials" title="Marketing Essentials">
+  <img src="hmm_negotiating_badge.jpg" width="130" alt="Negotiating" title="Negotiating">
+  <img src="hmm_performance_measurement_badge.jpg" width="130" alt="Performance Measurement" title="Performance Measurement">
+</p>
+
+---
+
 ## 🎯 Impacto da Atuação Analítica
 
 Atuei no apoio à gestão por meio da análise e visualização de dados, contribuindo para decisões mais assertivas e redução de incertezas operacionais.
@@ -63,70 +79,12 @@ Também contribuí para a melhoria de processos analíticos, aumentando a efici�
 
 🔹 *Análise de Vendas com Power BI*  
 Dashboard interativo focado em indicadores de faturamento, ticket médio e performance comercial.  
-👉 https://github.com/SEU_USUARIO/nome-do-repositorio
+👉 https://github.com/SEU_USUARIO/nome-do-repositorio  
 
 🔹 *Análise Socioeconômica com Dados do IBGE*  
 Exploração e visualização de dados públicos para análise de tendências e indicadores históricos.  
-👉 https://github.com/SEU_USUARIO/nome-do-repositorio
+👉 https://github.com/SEU_USUARIO/nome-do-repositorio  
 
 🔹 *Análise de Dados em Python*  
 Projeto com limpeza, exploração e visualização de dados utilizando Pandas e Matplotlib.  
 👉 https://github.com/SEU_USUARIO/nome-do-repositorio
-
-📌 Cada projeto possui README detalhado com contexto, dados utilizados, métricas analisadas e insights.
-
----
-
-## 📂 Estrutura dos Projetos
-
-Cada repositório segue boas práticas e contém:
-
-- Contexto do problema
-- Fonte e tratamento dos dados
-- Métricas e KPIs analisados
-- Insights e recomendações
-- Instruções para reprodução
-
----
-
-## 📚 Formação & Certificações
-
-## Top 6
-
-- Certificado Profissional Google Data Analytics – Google
-
-- Análise de Negócios no Desenvolvimento de Soluções Baseadas em Dados – ENAP
-
-- Data Privacy Fundamentals – Northeastern University
-
-- Data Science Ethics – University of Michigan
-
-- Modelagem, Implementação e Administração de Banco de Dados – Fundação Bradesco
-
-- Microsoft Power BI Para Business Intelligence e Data Science - Data Science Academy
-
-
-
----
-<!--
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KallebVieira&show_icons=true&hide_title=true">
-  <br><br>
-</div>
--->
-
- 📌  Busco oportunidades como Analista de Dados Júnior ou BI Analyst, com foco em aprendizado contínuo e geração de valor por meio de dados.
-
-## 🌐 Contato
-
-LinkedIn: Clique aqui 👉🏻 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalleb-vieira-997a03108)
-
-
----
-
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  
